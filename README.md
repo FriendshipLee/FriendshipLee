@@ -37,19 +37,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-6DB33F?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-4285F4?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-4285F4?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-E6522C?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
   
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse-E6B91E?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VisualStudioCode-4169E1?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/DBeaver-009639?style=flat-square&logo=DBeaver&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-2496ED?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vultr-2496ED?style=flat-square&logo=Vultr&logoColor=white"/></a>&nbsp
+</a>&nbsp
 </p>
 <br>
 <!--
