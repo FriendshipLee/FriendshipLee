@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Mysql-6DB33F?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML%20Compose-4285F4?style=flat-square&logo=HTML5%20Compose&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-4285F4?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-4285F4?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
   
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
