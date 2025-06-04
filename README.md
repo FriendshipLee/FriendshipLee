@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=BongJune's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻깊고 넓게 공부하는 개발자 김봉준입니다.</div>
+<div align='center'>💻.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:callhead4@naver.com">callhead4@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="[https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3](https://frost-ping-2ac.notion.site/1ee12f296914803c8a3eedf4c1cc6e48?source=copy_link)">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
+<div align='center'> 🔗Notion : <a href="https://frost-ping-2ac.notion.site/1ee12f296914803c8a3eedf4c1cc6e48?source=copy_link">노션링크</a></div>
 <br>
 <br>
 <br>
